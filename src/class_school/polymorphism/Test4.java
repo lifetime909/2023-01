@@ -5,8 +5,8 @@ public class Test4 {
         Professor[] professors = new Professor[3];
 
         professors[0] = new Professor("박상철 교수님", "123456789");
-        professors[0] = new Professor("정영철 교수님", "741852963");
-        professors[0] = new Professor("류은영 교수님", "159487623");
+        professors[1] = new Professor("정영철 교수님", "741852963");
+        professors[2] = new Professor("류은영 교수님", "159487623");
     
         Util.selectionSort(professors);
 
