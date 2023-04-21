@@ -1,6 +1,6 @@
-package ch06.accessModifier;
+package ch06.accessModifier.test;
 
-public class AccessModifierTest01 {
+public class AccessModifierTest02 {
     private int privateVariable;
     int defaultVariable;
     protected int protectedVariable;
@@ -10,6 +10,6 @@ public class AccessModifierTest01 {
         System.out.println("privateVariable : " + privateVariable);
         System.out.println("defaultVariable : " + defaultVariable);
         System.out.println("protectedVariable : " + protectedVariable);
-        System.out.println("publicVariable : " + publicVariable);
+        System.out.println("pulicVariable : " + publicVariable);
     }
 }
