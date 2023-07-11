@@ -1,4 +1,4 @@
-package class_school.test;
+package test;
 
 public class PersonTest {
   public static void main(String[] args) {

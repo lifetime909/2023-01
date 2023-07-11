@@ -1,4 +1,4 @@
-package class_school.polymorphism;
+package polymorphism;
 
 public class Student extends Comparable{
   private String name;

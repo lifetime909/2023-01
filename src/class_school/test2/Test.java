@@ -1,9 +1,6 @@
-package class_school.test2;
+package test2;
+import test.Person;
 
-import class_school.test.Person;
-
-public class Test {
-  Person p = new Person();
-  //String d = p.dept;
-  
+public class Test extends Person {
+  String d = dept;
 }

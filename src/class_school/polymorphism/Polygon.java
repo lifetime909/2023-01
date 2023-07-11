@@ -1,4 +1,4 @@
-package class_school.polymorphism;
+package polymorphism;
 
 public class Polygon extends Shape {
   @Override

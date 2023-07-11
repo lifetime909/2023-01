@@ -1,4 +1,4 @@
-package class_school.test;
+package test;
 
 public class Person {
   /*
@@ -32,7 +32,8 @@ public class Person {
    */
   private String name="홍길동";
   private int myAge;
-  String dept= "컴정";
+  protected String dept= "컴정";
+  //String dept= "컴정"; 다른 패키지 접근 불가.
 
   public String getDept() {
     return dept;

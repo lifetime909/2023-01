@@ -1,4 +1,3 @@
-package class_school;
 
 
 /**

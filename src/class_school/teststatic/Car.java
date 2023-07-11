@@ -1,4 +1,4 @@
-package class_school.teststatic;
+package teststatic;
 
 public class Car {
   private String model;

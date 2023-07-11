@@ -1,4 +1,4 @@
-package class_school.test;
+package test;
 
 public class Car {
   private int speed;

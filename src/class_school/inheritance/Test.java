@@ -1,4 +1,4 @@
-package class_school.inheritance;
+package inheritance;
 
 public class Test {
   public static void main(String[] args) {

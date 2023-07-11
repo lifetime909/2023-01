@@ -1,4 +1,4 @@
-package class_school.polymorphism;
+package polymorphism;
 
 public class Triangle extends Shape {
   private int width;

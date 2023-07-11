@@ -1,4 +1,4 @@
-package class_school.polymorphism;
+package polymorphism;
 
 public class Test3 {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package class_school.test;
+package test;
 
 import java.util.zip.DataFormatException;
 

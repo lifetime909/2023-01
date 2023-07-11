@@ -1,4 +1,4 @@
-package class_school;
+import javax.swing.plaf.synth.SynthScrollPaneUI;
 
 public class Test {
     public static void main(String[] args) {

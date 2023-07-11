@@ -1,4 +1,4 @@
-package class_school.test;
+package test;
 
 public class Box {
   private int width, length, height;

@@ -1,4 +1,4 @@
-package class_school.polymorphism;
+package polymorphism;
 import java.util.*;
 
 public class Test2 {

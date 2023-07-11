@@ -1,4 +1,4 @@
-package class_school.chusang;
+package chusang;
 
 public class Triangle extends Shape{
 
